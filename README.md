@@ -17,3 +17,10 @@ manage various AirBnB objects. The interpreter provides the following functional
 3. Perform operations on objects, such as counting, computing statistics, and more.
 4. Update attributes of objects.
 5. Delete objects from the system.
+
+Getting Started
+
+To start using the AirBnB Clone command interpreter, follow these steps:
+
+Clone this repository to your local machine:
+git clone https://github.com/yourusername/airbnb-clone.git
